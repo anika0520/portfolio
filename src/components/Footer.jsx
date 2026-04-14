@@ -32,17 +32,17 @@ const Footer = () => {
             {[
               {
                 icon: Github,
-                href: "https://github.com/anikagangwar",
+                href: "https://github.com/anika0520",
                 label: "GitHub",
               },
               {
                 icon: Linkedin,
-                href: "https://linkedin.com/in/anikagangwar",
+                href: "https://www.linkedin.com/in/anika-gangwar-3a10772b1",
                 label: "LinkedIn",
               },
               {
                 icon: Mail,
-                href: "mailto:anika.gangwar@example.com",
+                href: "mailto:anikagangwar2005@gmail.com",
                 label: "Email",
               },
             ].map(({ icon: Icon, href, label }) => (
